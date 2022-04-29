@@ -1,6 +1,6 @@
 # ddtn
 
-A new Flutter project.
+An unfinished attempt at creating a flappy bird remake in flutter.
 
 ## Getting Started
 
